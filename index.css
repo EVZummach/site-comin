@@ -13,5 +13,7 @@
 
 .data p{
     margin: 10px;
-    pad: 2px;
+    pad: 5px;
+    font-family: 'Arial Black';
+    font-size: 20px;
 }
