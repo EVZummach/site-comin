@@ -1,5 +1,6 @@
 var countDownDate = new Date("Mar 01, 2024 07:12:00").getTime();
 
+
 function calculateRemainingTime() {
   var now = new Date().getTime();
   var timeleft = countDownDate - now;
